@@ -42,8 +42,8 @@ Feel free to explore, star, or reach out if you’d like to collaborate!
 
 ## 📈 GitHub Stats
 
-![Sajeevan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajeevanjspy&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajeevanjspy&layout=compact&theme=radical)
+![Sajeevan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajvn0x&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajvn0x&layout=compact&theme=radical)
 
 ---
 
